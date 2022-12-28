@@ -1,0 +1,19 @@
+body{
+    background: url("./slike/pozadina_recepti.jpg");
+   
+}
+
+.recept1{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+   
+}
+
+.burger{
+    width: 30px;
+    fill: white;
+    margin-right: 20px;
+
+}
